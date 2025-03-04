@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExcerciceCour</string>
+    <string name="hint_fullname">Nom et prénom</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Téléphone</string>
+    <string name="hint_adresse">Adresse</string>
+    <string name="button_send">Envoyer</string>
+</resources>
